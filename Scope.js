@@ -21,3 +21,4 @@ function calSum(a,b){
   console.log(sum)
 }
 console.log(sum);
+console.log(calSum);
