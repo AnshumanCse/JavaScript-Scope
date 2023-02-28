@@ -12,6 +12,8 @@ function FindSum(a,b){
 }
 // console.log(FindSum)
 
+
+
 // global scope
 let sum = 10;
 function calSum(a,b){
